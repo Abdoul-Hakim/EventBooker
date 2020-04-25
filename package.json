@@ -1,0 +1,20 @@
+{
+  "name": "eventbooker",
+  "version": "1.0.0",
+  "description": "eventbooker web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:server":"json-server --watch EventBookerDB/db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdoul-Hakim/EventBooker.git"
+  },
+  "author": "Abdoul Hakim Billa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdoul-Hakim/EventBooker/issues"
+  },
+  "homepage": "https://github.com/Abdoul-Hakim/EventBooker#readme"
+}
